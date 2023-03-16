@@ -6,6 +6,6 @@ A unicorn company, or unicorn startup, is a private company with a valuation ove
 
 The aim of this analysis is to answer below questions:
 
-1- What is the total number of unicorns in each industry/country?
-2- For each industry, what is the average ROI and Time to be unicorn for the companies in that industry?
-3- What is the average valuation, funding in each industry/country?
+1- What is the total number of unicorns in each industry/country? <br>
+2- For each industry, what is the average ROI and Time to be unicorn for the companies in that industry? <br>
+3- What is the average valuation, funding in each industry/country? <br>
